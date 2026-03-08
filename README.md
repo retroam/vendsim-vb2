@@ -1,3 +1,12 @@
+---
+title: VendSim VB2
+emoji: 🏪
+colorFrom: blue
+colorTo: green
+sdk: docker
+pinned: false
+---
+
 # vendsim-vb2
 
 `vendsim-vb2` is an OpenEnv 0.2.1-compatible implementation of a Vending-Bench 2 style environment.
