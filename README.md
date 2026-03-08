@@ -67,9 +67,9 @@ Code:
 
 Notebooks:
 
-- Setup verification: [00_setup_verification.ipynb](./notebooks/00_setup_verification.ipynb)
-- Training notebook: [01_vb2_training_grpo.ipynb](./notebooks/01_vb2_training_grpo.ipynb)
-- Final benchmark run: [02_vb2_final_run.ipynb](./notebooks/02_vb2_final_run.ipynb)
+- Setup verification: [00_setup_verification.ipynb](./notebooks/00_setup_verification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/retroam/vendsim-vb2/blob/main/notebooks/00_setup_verification.ipynb)
+- Training notebook: [01_vb2_training_grpo.ipynb](./notebooks/01_vb2_training_grpo.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/retroam/vendsim-vb2/blob/main/notebooks/01_vb2_training_grpo.ipynb)
+- Final benchmark run: [02_vb2_final_run.ipynb](./notebooks/02_vb2_final_run.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/retroam/vendsim-vb2/blob/main/notebooks/02_vb2_final_run.ipynb)
 
 Tests:
 
