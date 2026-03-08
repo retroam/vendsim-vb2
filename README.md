@@ -67,9 +67,9 @@ Code:
 
 Notebooks:
 
-- Setup verification: [00_setup_verification.ipynb](../notebooks/00_setup_verification.ipynb)
-- Training notebook: [01_vb2_training_grpo.ipynb](../notebooks/01_vb2_training_grpo.ipynb)
-- Final benchmark run: [02_vb2_final_run.ipynb](../notebooks/02_vb2_final_run.ipynb)
+- Setup verification: [00_setup_verification.ipynb](./notebooks/00_setup_verification.ipynb)
+- Training notebook: [01_vb2_training_grpo.ipynb](./notebooks/01_vb2_training_grpo.ipynb)
+- Final benchmark run: [02_vb2_final_run.ipynb](./notebooks/02_vb2_final_run.ipynb)
 
 Tests:
 
@@ -118,12 +118,12 @@ openenv push
 
 Submission artifact placeholders:
 
-- HF Space URL: `TODO`
-- Installable package / repo URL: `TODO`
+- HF Space URL: https://huggingface.co/spaces/retroam/vendsim-vb2
+- GitHub repo: https://github.com/retroam/vendsim-vb2
 - Demo video URL: `TODO`
 
 ## Training Artifact
 
 A minimal training script in Colab using Unsloth or HF TRL is included:
 
-- [01_vb2_training_grpo.ipynb](../notebooks/01_vb2_training_grpo.ipynb)
+- [01_vb2_training_grpo.ipynb](./notebooks/01_vb2_training_grpo.ipynb)
